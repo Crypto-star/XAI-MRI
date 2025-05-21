@@ -1,0 +1,51 @@
+
+==================================================
+               BRAIN MRI ANALYSIS REPORT               
+==================================================
+
+MRI Report:
+**MRI Report:**
+
+1. **Findings:**
+   1. **Lesion Characteristics:**
+      - A well-defined hyperintense mass is observed in the right frontal region.
+      - The lesion displays a homogeneous enhancement post-contrast administration.
+   2. **Location:**
+      - The mass is located adjacent to the dura mater, suggestive of extra-axial location.
+   3. **Effects on Surrounding Structures:**
+      - There is minimal midline shift of the brain.
+      - No significant edema surrounding the lesion.
+   4. **Cerebrospinal Fluid (CSF) Spaces:**
+      - Normal appearance of the ventricles and CSF spaces.
+
+2. **Summary:**
+   - The MRI findings are consistent with an extra-axial mass which is highly suggestive of a meningioma, given its characteristics and location.
+
+Possible Diagnosis:
+**Possible Diagnosis:**
+- The AI model predicted this as: meningioma with 98.9% confidence.
+- Other potential diagnoses to consider include:
+   - Glioma: Less likely due to extra-axial location and enhancement characteristics.
+   - Not tumor: Unlikely based on the definitive mass observed.
+   - Pituitary adenoma: Unlikely as the mass is above the sella and not centered on the sella turcica.
+- Overall, I agree with the AI model’s prediction of meningioma.
+
+Recommended Next Steps:
+**Recommended Next Steps:**
+- Consider obtaining additional imaging such as:
+  - MRI with diffusion-weighted imaging for further characterization.
+  - MRI angiography to assess for any vascular involvement.
+- Biopsy if the lesion is symptomatic or if there is uncertainty in the diagnosis based on imaging.
+- Referral to a neurosurgeon for evaluation and discussion of surgical options if indicated.
+
+Conclusion:
+**Conclusion:**
+- The MRI findings indicate a likely meningioma. Further evaluation through advanced imaging and potential surgical consultation is recommended to confirm diagnosis and plan treatment.
+
+--- 
+
+Feel free to adjust the content based on specific findings from the MRI you are reviewing.
+
+--------------------------------------------------
+Report generated using OpenAI's GPT-4o-mini model
+--------------------------------------------------
